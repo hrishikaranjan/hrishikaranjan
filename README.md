@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hrishika Ranjan.
 - 👀 I’m interested in Web Development . 
 - 🌱 I’m currently learning AI/ML.
-- 📫 How to reach me - Through linkedin profile -id: Hrishika Ranjan .
+- 📫 How to reach me - Through linkedin profile -id: linkedin.com/in/hrishika-ranjan-8b188a300
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: ...
 
